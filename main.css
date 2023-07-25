@@ -174,6 +174,7 @@ a:hover + .home-hover-container {
   margin-left: 1.2rem;
   padding-right: 0;
   height: 52px;
+  color: #e0e0e0;
 }
 
 .search-input input {
@@ -233,4 +234,111 @@ a:hover + .home-hover-container {
 .bag-img {
   width: 30px;
   height: 35px;
+}
+
+.border-goods {
+  border: solid 0.4px #e0e0e0;
+}
+
+.boy {
+  width: 520px;
+  height: 615px;
+  transition: transform 0.5s;
+}
+
+.div-air {
+  padding-right: 2rem;
+}
+
+.div-air-border {
+  border: solid 2px green;
+  max-height: 100%;
+}
+
+.fa-angle-right {
+  display: inline-block;
+  padding-left: 1rem;
+  font-size: 1.2rem;
+  color: #777777;
+}
+
+.fa-angle-left {
+  font-size: 1.2rem;
+  color: #777777;
+}
+
+.top-seller {
+  padding: 1.5rem;
+  font-weight: 600;
+}
+
+.top-seller-img {
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+.pro-head {
+  font-weight: 500;
+}
+
+.head-det {
+  font-size: 0.9rem;
+}
+
+.ordered {
+  border: solid 3px green;
+  margin-bottom: 2rem;
+}
+
+.order-count {
+  padding: 0.2rem 2rem;
+  font-size: 14px;
+}
+
+.boy-section {
+  width: 64%;
+  position: relative;
+  overflow: hidden;
+}
+
+.boy-section div {
+  padding: 2rem 3rem;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+}
+
+.boy-section img:hover {
+  transform: scale(1.1);
+  transition: 0.5s ease;
+  overflow: hidden;
+}
+
+.boy-section div p {
+  font-size: 25px;
+  color: #fff;
+  font-weight: bold;
+}
+
+.boy-absolute p {
+  width: 30%;
+}
+
+.tag-on-img {
+}
+
+.good-container {
+  margin-left: 2rem;
+}
+
+.popular-for-man {
+  margin-top: 2rem;
+}
+
+.pink {
+  background-color: #d8a68c;
+}
+
+.blue {
+  background-color: #649bb8;
 }
